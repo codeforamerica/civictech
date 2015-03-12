@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeforamerica/civictech.png?label=ready&title=Ready)](https://waffle.io/codeforamerica/civictech)
 # GOALS
 
 1. Increase the quantity of people participating in the civic technology movement.
