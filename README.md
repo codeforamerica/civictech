@@ -17,3 +17,4 @@
 * Government and nonprofit partners
 * Has user research
 * Uses modern tools
+* Has published metrics (#users, no vanity metrics)
